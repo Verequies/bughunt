@@ -1,0 +1,7 @@
+build
+node_modules
+src-backend/version.ts
+tsc-backend
+.env*
+*.lock
+*.log
